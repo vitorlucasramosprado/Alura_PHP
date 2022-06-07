@@ -1,0 +1,3 @@
+[07-Jun-2022 11:27:04 America/Sao_Paulo] PHP Notice:  Undefined variable: variavel in /home/vitor/Documents/Alura_PHP/PHP/PHP Exceptions-tratamento-erros/testalog.php on line 8
+[07-Jun-2022 11:27:04 America/Sao_Paulo] PHP Notice:  Undefined variable: array in /home/vitor/Documents/Alura_PHP/PHP/PHP Exceptions-tratamento-erros/testalog.php on line 9
+[07-Jun-2022 11:27:04 America/Sao_Paulo] PHP Notice:  Trying to access array offset on value of type null in /home/vitor/Documents/Alura_PHP/PHP/PHP Exceptions-tratamento-erros/testalog.php on line 9
